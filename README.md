@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Francisco Mauricio Ruiz</h1>
 <h3 align="center">Advanced student of computer engineering at the National University of Tucumán</h3>
 
-### Contaact me:
+### Contact me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauruiz20&label=Profile%20views&color=0e75b6&style=flat" alt="mauruiz" /> </p>
 
@@ -24,13 +24,13 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-- 🌱 I’m currently learning **React, Spring Boot**
+- :hammer: I’m currently learning **React, Spring Boot**
 
-- 💬 Ask me about **C, Java and SQL**
+- :speech_balloon: Ask me about **C, Java and SQL**
 
-- 📫 How to reach me **ruizmauricio012@gmail.com**
+- :e-mail: How to reach me **ruizmauricio012@gmail.com**
 
-- 📄 Know about my experiences [https://www.ruizmauricio.me](https://www.ruizmauricio.me)
+- :construction_worker: Know about my experiences [https://www.ruizmauricio.me](https://www.ruizmauricio.me)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauruiz20&show_icons=true&locale=en&layout=compact" alt="mauruiz" /></p>
 
