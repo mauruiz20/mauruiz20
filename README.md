@@ -1,9 +1,15 @@
-[![MasterHead](https://bridgera.com/wp-content/uploads/2019/07/Internet-of-Things.png](https://www.ruizmauricio.me)
+<p align="center"><img src="https://img.freepik.com/foto-gratis/programador-computadoras-usando-computadora-portatil_53876-96073.jpg?size=626&ext=jpg&ga=GA1.2.529977817.1666396012&semt=sph" alt="mauruiz" /> </p>
 
 <h1 align="center">Hi there 👋, I'm Francisco Mauricio Ruiz</h1>
-<h3 align="center">Advanced student of computer engineering at the National University of Tucumán.</h3>
+<h3 align="center">Advanced student of computer engineering at the National University of Tucumán</h3>
+
+### Contaact me:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mauruiz20&label=Profile%20views&color=0e75b6&style=flat" alt="mauruiz" /> </p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ruiz-francisco-mauricio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauruiz" height="30" width="40" /></a> <a href="https://instagram.com/mauricio_ruiz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauruiz" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
@@ -26,12 +32,7 @@
 
 - 📄 Know about my experiences [https://www.ruizmauricio.me](https://www.ruizmauricio.me)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauruiz20&show_icons=true&locale=en&layout=compact" alt="mauruiz" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ruiz-francisco-mauricio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauruiz" height="30" width="40" /></a> <a href="https://instagram.com/mauricio_ruiz01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mauruiz" height="30" width="40" /></a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauruiz20&show_icons=true&locale=en&layout=compact" alt="mauruiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mauruiz20&show_icons=true&locale=en" alt="mauruiz" /></p>
 
