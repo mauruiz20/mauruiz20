@@ -30,7 +30,7 @@
 
 - :e-mail: How to reach me **ruizmauricio012@gmail.com**
 
-- :construction_worker: Know about my experiences [https://www.ruizmauricio.me](https://www.ruizmauricio.me)
+- :construction_worker: Know about my experiences [https://www.ruizmauricio.engineer](https://www.ruizmauricio.engineer)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mauruiz20&show_icons=true&locale=en&layout=compact" alt="mauruiz" /></p>
 
